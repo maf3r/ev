@@ -51,7 +51,7 @@ Body Content
             <nav id="sticktop">
             <div class="container">
                 
-                    <a href="index.html" class="text-left logo"><img src="assets/demo-data/logo1.png" alt=""></a>
+                    <a href="index.html" class="text-left logo"><img src="assets/demo-data/logo4.png" alt=""></a>
                     <ul class="socials">
                          <li><a href="https://www.facebook.com/HumanaVision/" target="_blank" class="fb"><i class="fa fa-facebook-f"></i></a></li>
                         <li><a href="https://twitter.com/humanavision?ref_src=twsrc%5Etfw" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a></li>
