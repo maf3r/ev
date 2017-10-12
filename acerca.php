@@ -126,16 +126,7 @@ Body Content
 						entre otros, cuenta con alta gama de experiencia ademas de ser representante Ecuatoriano a 
 						nivel nacional e internacional <br><a class="color-blue" href="#bio"><i><u><strong>Leer más</strong></u></i></a></p>
                     </div>
-                    <div class="col-sm-3 mt-10 tags">
-                        <h6 class="text-bold text-uppercase after-left-s pb-20 mb-20">Etiquetas</h6>
-                        <a href="https://www.eduardoviteri.com">refractiva</a>
-                        <a href="https://www.eduardoviteri.com">catarata</a>
-                        <a href="https://www.eduardoviteri.com">oftalmólogo</a>
-                        <a href="https://www.eduardoviteri.com">lasik</a>
-                        <a href="https://www.eduardoviteri.com">facoemulsificación</a>
-                        <a href="https://www.eduardoviteri.com">cirugía</a>
-                    </div>
-
+                    
 					<div class="col-sm-3 mt-10 tweet">
 						<h6 class="text-bold text-uppercase after-left-s pb-20 mb-20">Últimos tweets</h6>					
 						<a class="twitter-timeline"  data-height="200"  data-width="250" data-dnt="true" href="https://twitter.com/humanavision" data-chrome="noheader nofooter">Tweets by humanavision</a>
