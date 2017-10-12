@@ -5,7 +5,7 @@
 <!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Dr. Eduardo Viteri - Servicios</title>
+<title>HUMANA VISION - Servicios</title>
 <!--=================================
 Meta tags
 =================================-->
@@ -52,7 +52,7 @@ Body Content
             <nav id="sticktop">
             <div class="container">
                 
-                    <a href="index.html" class="text-left logo"><img src="assets/demo-data/logo1.png" alt=""></a>
+                    <a href="index.html" class="text-left logo"><img src="assets/demo-data/logo4.png" alt=""></a>
                     <ul class="socials">
                         <li><a href="https://www.facebook.com/HumanaVision/" target="_blank" class="fb"><i class="fa fa-facebook-f"></i></a></li>
                         <li><a href="https://twitter.com/humanavision?ref_src=twsrc%5Etfw" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a></li>
@@ -60,7 +60,7 @@ Body Content
                     <a href="#" class="nav-triger"><span class="fa fa-navicon"></span></a>
                     <ul class="main-menu">
                         <li class="active"><a href="index.html">Inicio</a></li>
-                        <li><a href="acerca.html">Dr. Eduardo Viteri</a></li>
+                        <li><a href="acerca.html">Nosotros</a></li>
 						<li><a href="enfermedades.html">Enfermedades</a></li>      
                         <li><a href="contacto.html">Contacto</a></li>
                     </ul>
@@ -147,37 +147,28 @@ Body Content
       <footer class="bg-white pt-30">
             <div class="container">
                 <div class="row">
-                     <div class="col-sm-3 mt-10">
+                     <div class="col-sm-4 mt-10">
                         <h6 class="text-bold text-uppercase after-left-s pb-20 mb-20">Acerca de</i></h6>
-                        <p>Dr. Viteri especialista en cirugía refractiva, cataratas sin sutura, tratamientos de glaucoma,
+                        <p align="justify">Dr. Viteri especialista en cirugía refractiva, cataratas sin sutura, tratamientos de glaucoma,
 						entre otros, cuenta con alta gama de experiencia ademas de ser representante Ecuatoriano a 
 						nivel nacional e internacional <br><a class="color-blue" href="acerca.html"><i><u><strong>Leer más</strong></u></i></a></p>
                     </div>
-                    <div class="col-sm-3 mt-10 tags">
-                        <h6 class="text-bold text-uppercase after-left-s pb-20 mb-20">Etiquetas </h6>
-                        <a href="https://www.eduardoviteri.com">refractiva</a>
-                        <a href="https://www.eduardoviteri.com">catarata</a>
-                        <a href="https://www.eduardoviteri.com">oftalmólogo</a>
-                        <a href="https://www.eduardoviteri.com">lasik</a>
-                        <a href="https://www.eduardoviteri.com">facoemulsificación</a>
-                        <a href="https://www.eduardoviteri.com">operación</a>
-                    </div>
-
-					<div class="col-sm-3 mt-10 tweet">
+                  
+					<div class="col-sm-4 mt-10 tweet">
 						<h6 class="text-bold text-uppercase after-left-s pb-20 mb-20">Últimos tweets</h6>					
-						<a class="twitter-timeline"  data-height="200"  data-width="250" data-dnt="true" href="https://twitter.com/humanavision" data-chrome="noheader nofooter">Tweets by humanavision</a>
+						<a class="twitter-timeline"  data-height="200"  data-width="300" data-dnt="true" href="https://twitter.com/humanavision" data-chrome="noheader nofooter">Tweets by humanavision</a>
 						
 					</div>
 					
-					<div class="col-sm-3 mt-10">
+					<div class="col-sm-4 mt-10">
 						<h6 class="text-bold text-uppercase after-left-s pb-20 mb-20">Dirección</h6>					
 						<strong>Conlsutorio :  </strong> Clínica Panamericana Panamá 616 y Roca, 
-						Tercer Piso Consultorio #301 Guayaquil-Ecuador</p>
+						Tercer Piso Consultorio #301 <br/>Guayaquil-Ecuador</p>
 					</div>
 	
                 </div>
                 <div class="rights mt-60 pt-15 pb-10">
-                    © 2017 Dr. Eduardo Viteri Todos los Derechos Reservados &copy;
+                    © 2017 HUMANA VISION Todos los Derechos Reservados &copy;
 					<br>Desarrollado por <a href="www.servconnet.com.ec/">SERVCONNET</a>
                 </div>
             </div>

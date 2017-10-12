@@ -5,7 +5,7 @@
 <!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Dr. Eduardo Viteri - Biografía</title>
+<title>HUMANA VISION - Biografía</title>
 <!--=================================
 Meta tags
 =================================-->
@@ -59,7 +59,7 @@ Body Content
                     <a href="#" class="nav-triger"><span class="fa fa-navicon"></span></a>
                     <ul class="main-menu">
                         <li><a href="index.html">Inicio</a></li>                        
-                        <li class="active"><a href="acerca.html">Dr. Eduardo Viteri</a></li>
+                        <li class="active"><a href="acerca.html">Nosotros</a></li>
 						<li><a href="enfermedades.html">Enfermedades</a></li>              
                         <li><a href="contacto.html">Contacto</a></li>
                     </ul>
@@ -120,23 +120,23 @@ Body Content
      <footer class="bg-white pt-35">
             <div class="container">
                 <div class="row">
-                     <div class="col-sm-3 mt-10">
+                     <div class="col-sm-4 mt-10">
                         <h6 class="text-bold text-uppercase after-left-s pb-20 mb-20">Acerca de</h6>
-                        <p>Dr. Viteri especialista en cirugía refractiva, cataratas sin sutura, tratamientos de glaucoma,
+                        <p align="justify">Dr. Viteri especialista en cirugía refractiva, cataratas sin sutura, tratamientos de glaucoma,
 						entre otros, cuenta con alta gama de experiencia ademas de ser representante Ecuatoriano a 
 						nivel nacional e internacional <br><a class="color-blue" href="#bio"><i><u><strong>Leer más</strong></u></i></a></p>
                     </div>
                     
-					<div class="col-sm-3 mt-10 tweet">
+					<div class="col-sm-4 mt-10 tweet">
 						<h6 class="text-bold text-uppercase after-left-s pb-20 mb-20">Últimos tweets</h6>					
-						<a class="twitter-timeline"  data-height="200"  data-width="250" data-dnt="true" href="https://twitter.com/humanavision" data-chrome="noheader nofooter">Tweets by humanavision</a>
+						<a class="twitter-timeline"  data-height="200"  data-width="300" data-dnt="true" href="https://twitter.com/humanavision" data-chrome="noheader nofooter">Tweets by humanavision</a>
 						
 					</div>
 					
-					<div class="col-sm-3 mt-10">
+					<div class="col-sm-4 mt-10">
 						<h6 class="text-bold text-uppercase after-left-s pb-20 mb-20">Dirección</h6>					
 						<strong>Conlsutorio :  </strong> Clínica Panamericana Panamá 616 y Roca, 
-						Tercer Piso Consultorio #301 Guayaquil-Ecuador</p>
+						Tercer Piso Consultorio #301 <br/>Guayaquil-Ecuador</p>
 					</div>
 	
                 </div>

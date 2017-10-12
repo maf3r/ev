@@ -1218,6 +1218,7 @@ figure.style {
 .sidebar .category li:last-child,
 .product-sidebar .category li:last-child {
     border: none;
+
 }
 
 .blog-post {
@@ -1666,6 +1667,7 @@ footer .recent-posts ul li:last-child {
 }
 
 footer .rights {
+	margin-top: 110px;
     position: relative;
     color: rgba(0, 0, 0, 0.45);
 }
@@ -1678,6 +1680,8 @@ footer .rights:before {
     left: 0;
     position: absolute;
     width: 100%;
+	
+	
 }
 .custom_flickr{padding: 0;}
 .custom_flickr li{
@@ -1771,11 +1775,6 @@ footer .rights:before {
 
 
 
-
-
-
-
-
 /*=========================
 10-Responsive
 ==========================*/
@@ -1791,6 +1790,7 @@ footer .rights:before {
 @media (min-width: 1025px) {
     .navbar-custom nav ul {
         display: block !important;
+		
     }
 }
 
@@ -1820,9 +1820,11 @@ footer .rights:before {
         -moz-transform: translateY(-50%);
         -o-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
+		
     }
     header .main-menu{
         display: none;
+		
     }
     
     header .socials {
